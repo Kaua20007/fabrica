@@ -1,0 +1,1 @@
+carro | 700000 | 3carro | 10000& "C:/Program Files/Python313/python.exe" "c:/Users/prog5/Desktop/jc salva/produtos.py" | cocacoca | 12.0 | 10coca | 12.0 | 3BALA | 0.25 | 10BALA | 0.5 | 10
